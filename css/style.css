@@ -5,6 +5,7 @@
 }
 .Container{
 	display:flex;
+	justify-content: space-between;
 	height:300px;
 	width:auto;
 	margin:40px auto;
